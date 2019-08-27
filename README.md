@@ -1,4 +1,1 @@
-# botdiscord
-# tipbotdiscod
-# tipbotdiscod
 # tipbotdiscod
